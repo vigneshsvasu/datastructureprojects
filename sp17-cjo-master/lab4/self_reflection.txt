@@ -1,0 +1,99 @@
+All questions are optional, though try to answer at least 4. The main goal of this file is to get you thinking critically about your own work, but we will also use these self reflections at the end of the semester when we do our internal review of the course.
+
+ArrayDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+<<<<<<< HEAD
+A:
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: I sort of got the wrap around correct -- only sort of though.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: The resizing up and down.
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A: That it wasn't completely compied from the lecture code like my so called "friend " said, leaving me screwed on friday morning.
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A: I would have taken more time on it, so it would have been easier. I would have gone to OH.
+=======
+A: 
+
+Q: What's something you felt proud of in your code, if anything?
+
+A:
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A:
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A:
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A:
+>>>>>>> 14cab644a1ef004f3c39443420437b851cda5685
+
+-----
+
+LinkedListDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+<<<<<<< HEAD
+A: I would have added in the extra plusOne and minusOne methods.
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: Lol, nothing. The resize method should have worked but totally didn't.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: The extra last variable, made everything ten times harder.
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A: What a deque was.
+
+Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
+
+A:  Definitely not put that last method in, make each node have a item, next, AND a prev.
+=======
+A: 
+
+Q: What's something you felt proud of in your code, if anything?
+
+A:
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A:
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A:
+
+Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
+
+A:
+>>>>>>> 14cab644a1ef004f3c39443420437b851cda5685
+
+-----
+
+Meta:
+
+Q: This is the first time we've tried something like this. Did you like this design review process? Anything we should do differently next time?
+
+<<<<<<< HEAD
+A: I did, but maybe the questions should be more in depth.
+=======
+A: 
+>>>>>>> 14cab644a1ef004f3c39443420437b851cda5685
